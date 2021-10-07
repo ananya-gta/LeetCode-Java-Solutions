@@ -1,3 +1,4 @@
+/*Ananya Gupta*/
 class Solution {
     public int minDeletionSize(String[] strs) {
         int del=0, j=0;
