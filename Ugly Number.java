@@ -1,3 +1,4 @@
+/*Ananya Gupta*/
 class Solution {
     public boolean isUgly(int n) {
             int factor=0; int ans=0; 
